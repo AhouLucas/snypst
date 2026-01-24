@@ -1,0 +1,9 @@
+[project]
+name = "snypst"
+version = "0.1.0"
+description = "An ML-powered tool to convert images of mathematical expressions into Typst expressions"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "numpy>=2.4.1",
+]
