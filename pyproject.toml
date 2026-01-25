@@ -6,4 +6,10 @@ readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
     "numpy>=2.4.1",
+    "pandas>=3.0.0",
+    "pandoc>=2.4",
+    "pillow>=12.1.0",
 ]
+
+[tool.setuptools]
+packages = ["python", "python.data"]
