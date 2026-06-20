@@ -3,3 +3,4 @@ snypst.egg-info
 __pycache__/
 python/*/__pycache__/
 .vscode/
+CLAUDE.md
