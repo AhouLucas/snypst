@@ -1,1 +1,0 @@
-$H_{i}\approx0\rightarrow H_{i}\Psi=0$
